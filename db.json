@@ -1,5 +1,4 @@
-{
-  "todos": [
+[
     {
       "img": 0,
       "bookID": 1,
@@ -66,5 +65,4 @@
       "subgender": "Fantasía",
       "amount": 1
     }
-  ]
-}
+]
